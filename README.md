@@ -9,7 +9,7 @@ Amacı: Vatandaşların kamu hizmetleri, yönetmelikler ve başvuru süreçleri 
 |--------|-----------:|----------|
 | Kurumsal SSS | 3950 | Resmî web sitelerinden kazındı, manuel temizlik yapıldı |
 | Sentetik QA | 27728 | Mevzuat maddelerinden **Gemini 1.5 Flash** ile üretildi |
-| **Toplam** | **31178** | JSONL, `{"question": "...", "answer": "..."}` |
+| **Toplam** | **31178** | CSV, `{"soru": "...", "cevap": "..."}` |
 
 ## ✨ Model Ayrıntıları
 * QLoRA fine‑tune (16 GB VRAM)  

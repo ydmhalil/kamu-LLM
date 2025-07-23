@@ -12,7 +12,7 @@ Amacı: Vatandaşların kamu hizmetleri, yönetmelikler ve başvuru süreçleri 
 | **Toplam** | **31178** | CSV, `{"soru": "...", "cevap": "..."}` |
 
 ## ✨ Model Ayrıntıları
-* QLoRA fine‑tune (16 GB VRAM)  
+* unsloth tabanlı 4-bit LoRA (quantized adapter fine-tuning)
 * 4‑bit quantization → inference ≈ 9 GB  
 
 ## ⏳ Sınırlar
